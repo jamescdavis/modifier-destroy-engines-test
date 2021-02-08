@@ -1,0 +1,1 @@
+export { default } from 'modifier-destroy-engines-test/components/bar';
